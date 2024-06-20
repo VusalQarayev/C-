@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\bin\Debug\net8.0\Tasks2.exe
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\bin\Debug\net8.0\Tasks2.deps.json
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\bin\Debug\net8.0\Tasks2.runtimeconfig.json
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\bin\Debug\net8.0\Tasks2.dll
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\bin\Debug\net8.0\Tasks2.pdb
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\obj\Debug\net8.0\Tasks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\obj\Debug\net8.0\Tasks2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\obj\Debug\net8.0\Tasks2.AssemblyInfo.cs
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\obj\Debug\net8.0\Tasks2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\obj\Debug\net8.0\Tasks2.sourcelink.json
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\obj\Debug\net8.0\Tasks2.dll
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\obj\Debug\net8.0\refint\Tasks2.dll
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\obj\Debug\net8.0\Tasks2.pdb
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\obj\Debug\net8.0\Tasks2.genruntimeconfig.cache
+C:\Users\hp\Desktop\C sharp\Task\Tasks2\Tasks2\obj\Debug\net8.0\ref\Tasks2.dll
